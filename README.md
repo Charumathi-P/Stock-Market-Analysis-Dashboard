@@ -35,7 +35,6 @@ A responsive Stock Market Analysis Dashboard built using HTML, CSS, JavaScript, 
 
 ## 📊 API Used
 Alpha Vantage API
-https://www.alphavantage.co/
 ---
 
 ## 🔮 Future Improvements
