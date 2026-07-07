@@ -1,0 +1,21 @@
+Stock-Market-Dashboard
+│
+├── assets
+│
+├── css
+│    style.css
+│
+├── js
+│    app.js
+│    api.js
+│    chart.js
+│    watchlist.js
+│
+├── screenshots
+│    home.png
+│    dashboard.png
+│    chart.png
+│
+├── README.md
+├── LICENSE
+└── index.html
