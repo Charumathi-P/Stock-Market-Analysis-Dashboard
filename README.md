@@ -26,19 +26,12 @@ A responsive Stock Market Analysis Dashboard built using HTML, CSS, JavaScript, 
 ## ⚙️ Installation
 
 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/Stock-Market-Dashboard.git
-```
 2. Open the project folder.
 3. Get a free API key from Alpha Vantage.
 4. Replace the API key in `api.js`
-```javascript
-const API_KEY = "YOUR_API_KEY";
-```
 5. Open `index.html` in your browser.
 
 ---
-
 
 ## 📊 API Used
 Alpha Vantage API
